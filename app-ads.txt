@@ -996,3 +996,10 @@ balloonlabs.ai, 9173515035, RESELLER
 thunder-monetize.com, 3692155372, RESELLER
 pubmatic.com, 164601, RESELLER, 5d62403b186f2ace
 pubmatic.com, 164602, RESELLER, 5d62403b186f2ace
+#Premium Programmatic Demand by publisher@greedygame.com
+greedygame.com, 3484122799234846, DIRECT
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
+google.com,pub-4686405784285870, RESELLER, f08c47fec0942fa0
